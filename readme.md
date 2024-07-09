@@ -81,4 +81,4 @@ Este es el frontend para la prueba de desarrollador Fullstack JS de Kuepa. Esta 
 Para iniciar la aplicación en modo desarrollo:
 
 ```bash
-npm start
+npm run dev
